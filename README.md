@@ -59,6 +59,6 @@ The system supports business operations such as product inventory management, or
 
 ---
 
-### 🔥 Project Developed by: [Your Name]  
+### 🔥 Project Developed by: Frida  
 If you like it, feel free to ⭐️ this repo!
 
